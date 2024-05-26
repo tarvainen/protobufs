@@ -4,7 +4,7 @@
 // 	protoc        v5.26.1
 // source: example.proto
 
-package _go
+package example
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
