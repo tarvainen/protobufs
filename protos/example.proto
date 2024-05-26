@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package tarvainen.example;
+
+message ExampleRequest {
+    string name = 1;
+}
+
+message ExampleResponse {
+    string id = 1;
+    string name = 2;
+}
